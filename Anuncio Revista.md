@@ -4,9 +4,7 @@ Celebra 10 años de tradición y amor por la tierra con nuestro mezcal artesanal
 
 ## ¿Por qué elegir Mezcal Amarás?
 
-| Imagen                                                                                 | Descripción                                                                                                                                         |
-|----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![Tequila 1]([https://img.freepik.com/foto-gratis/vida-muerta-mezcal-gusano-maguey_23-2151267882.jpg?w=360&t=st=1720887029~exp=1720887629~hmac=91e77b50b64234279431c752b8f740a7c9e1978d105be49d727ae5e8770d67ee](https://editorialtelevisa.brightspotcdn.com/dims4/default/e3d3e37/2147483647/strip/true/crop/1049x1398+174+0/resize/750x1000!/quality/90/?url=https%3A%2F%2Fk2-prod-editorial-televisa.s3.us-east-1.amazonaws.com%2Fbrightspot%2F68%2Fe8%2F32b6bfd3439691948c41498281f6%2Fmezcal-amaras-espadin-americana-ensamble.png)) 
+https://editorialtelevisa.brightspotcdn.com/dims4/default/e3d3e37/2147483647/strip/true/crop/1049x1398+174+0/resize/750x1000!/quality/90/?url=https%3A%2F%2Fk2-prod-editorial-televisa.s3.us-east-1.amazonaws.com%2Fbrightspot%2F68%2Fe8%2F32b6bfd3439691948c41498281f6%2Fmezcal-amaras-espadin-americana-ensamble.png
 
 
 - **Autenticidad**: Elaborado con métodos ancestrales.
